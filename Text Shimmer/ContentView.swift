@@ -43,7 +43,7 @@ struct Home: View {
     }
 }
 
-// TextShimmer....
+// TextShimmer...
 
 struct TextShimmer: View {
     
